@@ -1,3 +1,40 @@
+
+# TaskList - A React Native App
+A beautiful design showing scrollable list of To Do tasks. It also contain an interactive button and beautiful avatar profile section.
+A small step towards mastering react native.
+
+
+## Tech Stack
+
+**Client:** React Native
+
+
+## Installation
+
+Clone repository
+
+```cmd
+  npm run start 
+  npm run android
+```
+    
+## Features
+
+- Scrollable Task List
+- Interactive button
+- Beautiful avatar profile section
+
+## Demo
+
+https://github.com/abdulrafey01/Task-List-React-Native/assets/115981065/a68439ee-cfb6-498b-ad8d-ec9303ec89cd
+
+
+
+## 🚀 About Me
+Hello there! 👋 I'm a passionate MERN stack developer with a strong foundation in web development, fueled by my enthusiasm for Node.js, React, and React Native. Currently immersed in the world of software engineering as a dedicated student, I bring a dynamic blend of skills to the table. From crafting robust backends with Node.js to building engaging user interfaces with React, and extending that expertise into the realm of mobile development with React Native, I thrive on creating seamless and innovative digital experiences. With a keen eye for detail and a commitment to continuous learning, I am excited to contribute my skills and knowledge to collaborative projects that push the boundaries of what technology can achieve. Let's build something incredible together! 🚀 #WebDevelopment #NodeJS #React #ReactNative #SoftwareEngineering #Express #Mongodb
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
